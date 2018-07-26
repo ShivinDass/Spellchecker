@@ -1,5 +1,5 @@
 #import os
-file1="words_alpha.txt"
+file1="dictionary.txt"
 f= open(file1,"r")
 ln=0
 longestWord=""
